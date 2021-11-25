@@ -1,0 +1,5 @@
+image:
+  registry: image-registry.openshift-image-registry.svc:5000
+  repository: apm-build/dotnet-dotnetcore-example-dev
+service:
+  port: 8080
